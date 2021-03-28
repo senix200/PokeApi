@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_pokedex">Pokedex</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="favorite">Favorite</string>
+    <string name="male">Male</string>
+    <string name="name">Name</string>
+    <string name="img">Image</string>
+    <string name="num">Numero</string>
+    <string name="female">Female</string>
+    <string name="shiny">Shiny ♂</string>
+    <string name="shiny2">Shiny ♀</string>
+    <string name="speed">Speed</string>
+    <string name="special_defense">Special Defense</string>
+    <string name="special_attack">Special Attack</string>
+    <string name="defense">Defense</string>
+    <string name="attack">Attack</string>
+    <string name="hp">HP</string>
+    <string name="type">Type</string>
+    <string name="ability">Ability</string>
+    <string name="status">Status</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+</resources>
